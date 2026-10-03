@@ -1,0 +1,28 @@
+RZYTMP3
+Copyright (C) 2026 rootzdev
+Discord: https://discord.gg/C3zPSNrTY2
+
+This program is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free
+Software Foundation, version 3 of the License (see the LICENSE file).
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+Additional terms under section 7(b) of the GNU GPLv3
+----------------------------------------------------
+1. The copyright notice "Copyright (C) 2026 rootzdev" and this NOTICE file
+   must be preserved in all copies and modified versions of this program.
+2. The author attribution "Developed by rootzdev" must be preserved in the
+   source code and in the Appropriate Legal Notices displayed by the user
+   interface of any work containing this program or a modified version of it
+   (in this program: the footer and the About dialog).
+3. Modified versions must be marked as such and must not be presented as the
+   original work of rootzdev.
+
+Third-party software distributed with release packages
+------------------------------------------------------
+- yt-dlp  (Unlicense)          https://github.com/yt-dlp/yt-dlp
+- FFmpeg  (GPLv3, gyan.dev)    https://ffmpeg.org  /  https://www.gyan.dev/ffmpeg/builds/
+- Deno    (MIT)                https://deno.com
